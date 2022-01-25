@@ -1,23 +1,23 @@
-public class User
-{
-    public string Name {get;set;}
+// public class User
+// {
+//     public string Name {get;set;}
 
-    public string Surname {get;set;}
+//     public string Surname {get;set;}
 
-    public User(){
+//     public User(){
 
 
-    }
+//     }
 
-    public User(string name , string surname){
+//     public User(string name , string surname){
 
-        Name=name;
-        Surname=surname;
-    }
+//         Name=name;
+//         Surname=surname;
+//     }
 
-    public string FullName(){
+//     public string FullName(){
 
-        return $"{Name} {Surname}";
-    }
+//         return $"{Name} {Surname}";
+//     }
 
-}
+// }
